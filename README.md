@@ -1,4 +1,4 @@
-# About
+# About:
 
   This is documentation for my plant monitor project. In this repository, you should be able to find:
   My code, part list and a circuit diagram
@@ -28,4 +28,4 @@
   - Tutorials for other sensors: https://www.elegoo.com/tutorial/Elegoo%20The%20Super%20Starter%20Kit%20for%20UNO%20%20V2.0.2020.5.8.zip
   - LCD functions and tutorials from Arduino: https://www.arduino.cc/en/Tutorial/HelloWorld?from=Tutorial.LiquidCrystal
 
-GOOD LUCK!!! Have fun!
+GOOD LUCK!!! Have fun! Google is your friend!!!
