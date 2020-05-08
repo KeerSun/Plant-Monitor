@@ -16,7 +16,7 @@ int sensorValue = 0;
 int val = 0; //value for storing moisture value 
 int soilPin = A1;
 int soilPower = 3;
-LiquidCrystal lcd(6, 7, 11, 10 , 9, 8);
+LiquidCrystal lcd(6, 7, 8, 9, 10, 11);
 
 
 /*
