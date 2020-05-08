@@ -1,7 +1,8 @@
 # About:
 
   This is documentation for my plant monitor project. In this repository, you should be able to find:
-  My code, part list and a circuit diagram
+  - My code, under "plant_monitor_.ino"
+  - Part list and a circuit diagram 
   This project was inspired by my interest in plants and growing my own food.
 
 # Introduction:
@@ -28,4 +29,12 @@
   - Tutorials for other sensors: https://www.elegoo.com/tutorial/Elegoo%20The%20Super%20Starter%20Kit%20for%20UNO%20%20V2.0.2020.5.8.zip
   - LCD functions and tutorials from Arduino: https://www.arduino.cc/en/Tutorial/HelloWorld?from=Tutorial.LiquidCrystal
 
-GOOD LUCK!!! Have fun! Google is your friend!!!
+# My silly little video of the end product:
+  https://youtu.be/t75iPbY4j20
+  
+# What I Would Change:
+  While the display is nice and informative, if I were to build it again I would make it more interesting, for example,
+  make the plant monitor scream. (haha) Or transfer the data wirelessly and plot the conditons to better analyze the 
+  conditions the plant/garden is in. Also as you can see, the wiring is a mess! That's gotta be better. Another thing is
+  that, it would be good to consider putting the arduino to sleep while not in use to conserve energy. One more thing! 
+  It would be would be great to conect it to a solar pannel to make it completly self-suffcient. 
