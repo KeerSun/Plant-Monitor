@@ -17,8 +17,13 @@
   - a microcontroller (arduino) from elegoo superstarter kit
   - a bread board from elegoo superstarter kit
   - Wires from elegoo superstarter kit
+  
   I specified where I got my parts, but of course you could find similar parts from sparkfun or adafruit.
   Don't be afraid to google.
+  
+  By using these sensors we will be able to monitor if the plant needs water, light, if the temperature is a good range.
+  The threashold values I used in the code are pretty general, so if you're are trying to monitor your cactus, definetly
+  look-up the ideal conditions and change the values in the code accoringly.
   
 # Resources:
   
@@ -38,3 +43,5 @@
   conditions the plant/garden is in. Also as you can see, the wiring is a mess! That's gotta be better. Another thing is
   that, it would be good to consider putting the arduino to sleep while not in use to conserve energy. One more thing! 
   It would be would be great to conect it to a solar pannel to make it completly self-suffcient. 
+  
+  GOOD LUCK! HAVE FUN! GOOGLE IS YOUR FRIEND!
